@@ -15,4 +15,13 @@ The dataset used in this project includes comprehensive movie metadata such as t
 <ul><li><b>TF-IDF Vectorization:</b>Converts textual movie descriptions into numerical vectors.</li>
 <li><b>Cosine Similarity:</b>Measures the similarity between movie vectors to find movies that are alike.</li>
 <li><b>Content-Based Filtering:</b>Recommends movies based on the similarity of their content to movies the user likes.</li></ul>
-<h4>Result</h4>
+<h4>Frontend</h4>
+The frontend of this project is developed using Streamlit, providing an interactive and easy-to-use interface for users to get movie recommendations. With Streamlit, users can input or can select from the list their favorite movies, and the system will return a list of recommended movies based on the input.
+The Frontend has an input placeholder where you can type or select a movie and a button labeled as recommend which on clicking recommend you 5 similar movies.<br>
+Here are some pictures of frontend-----<br>
+<br>
+<br>
+<img src="https://github.com/Ritika-Saini28/Movie_Recommendation_System/blob/main/Media/Screenshot%202024-07-02%20160930.png"><br>
+<img src="https://github.com/Ritika-Saini28/Movie_Recommendation_System/blob/main/Media/Screenshot%202024-07-02%20161047.png"><br>
+<img src="https://github.com/Ritika-Saini28/Movie_Recommendation_System/blob/main/Media/Screenshot%202024-07-02%20161001.png"><br>
+
